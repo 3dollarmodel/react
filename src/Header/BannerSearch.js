@@ -10,6 +10,7 @@ const bannerSearch = () => {
     return (
         <div className="BannerSearch">
             <Banner />
+            <Search />
         </div>
     );
 }
